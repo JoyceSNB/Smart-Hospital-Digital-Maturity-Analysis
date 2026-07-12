@@ -71,9 +71,11 @@ smart-hospital-digital-maturity-analysis/
 ├── README.md
 ├── requirements.txt
 ├── notebooks/
-│   └── Smart_Hospital_Analysis.ipynb          
+│   └── Smart_Hospital_Analysis.ipynb         
 ├── data/
 │   └── dataset_smart_hospital_indonesia.csv
+├── docs/
+│   └── Study_Case_Smart_Hospital.pdf   # Brief/soal asli dari panitia
 ├── reports/
 │   ├── executive_summary.pdf   
 │   └── slide_presentation.pptx 
