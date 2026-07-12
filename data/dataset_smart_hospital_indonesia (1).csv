@@ -1,0 +1,277 @@
+id_rumah_sakit,nama_rumah_sakit,provinsi,kota_kabupaten,kelas_rumah_sakit,kepemilikan,jumlah_tempat_tidur,jumlah_jenis_layanan,jumlah_tenaga_kerja,tingkat_keterisian_tempat_tidur_persen,rata_rata_lama_rawat_hari,kunjungan_pasien_per_bulan,status_implementasi_rme,status_terhubung_satusehat,skor_kematangan_digital,kunjungan_telemedicine_per_bulan,jumlah_perangkat_iot,jumlah_staf_it,anggaran_it_tahunan_juta_rupiah,rata_rata_waktu_respons_rujukan_menit
+RS0001,RS Bunda Kasih 1,DKI Jakarta,Kota Cempaka,C,Swasta,61,16,390,54.6,5.3,796,Ya,Ya,77.8,262.0,65,4.0,169.3,24.1
+RS0002,RS Graha Sehat 2,DKI Jakarta,Kota Bukitraya,D,TNI/POLRI,54,8,171,56.5,5.0,709,Ya,Tidak,74.3,139.0,52,5.0,132.8,25.7
+RS0003,RSUD Bhakti Husada 3,DKI Jakarta,Kab. Sukajadi,D,Pemerintah Daerah,73,10,159,81.6,2.0,1071,Ya,Ya,72.9,211.0,44,8.0,129.6,51.2
+RS0004,RSUD Harapan Bangsa 4,DKI Jakarta,Kab. Tanjungsari,C,Pemerintah Daerah,106,17,278,74.4,3.3,889,Ya,Ya,66.7,156.0,43,6.0,132.3,17.7
+RS0005,RSUD Karya Insani 5,DKI Jakarta,Kota Sukajadi,C,Pemerintah Daerah,134,12,393,86.2,3.7,1628,Ya,Ya,73.8,90.0,67,4.0,143.3,35.1
+RS0006,RS Permata Bunda 6,DKI Jakarta,Kab. Cempaka,B,TNI/POLRI,124,22,577,71.1,6.0,1490,Ya,Ya,71.5,169.0,44,3.0,153.3,69.2
+RS0007,RSUD Cahaya Medika 1,Jawa Barat,Kab. Girisari,C,Pemerintah Daerah,78,15,320,71.7,3.1,890,Ya,Ya,63.3,155.0,40,3.0,80.6,40.0
+RS0008,RS Bhakti Husada 2,Jawa Barat,Kota Cempaka,D,TNI/POLRI,34,8,170,79.7,3.0,558,Ya,Ya,87.7,262.0,22,11.0,157.3,31.2
+RS0009,RS Karya Insani 3,Jawa Barat,Kab. Cempaka,B, TNI/POLRI,152,19,726,89.5,4.4,1948,Ya,Ya,99.0,283.0,72,9.0,208.9,63.4
+RS0010,RSUD Citra Medika 4,Jawa Barat,Kota Mekarsari,D,Pemerintah Daerah,43,9,169,56.2,2.6,418,Ya,Ya,66.1,136.0,30,1.0,137.7,60.2
+RS0011,RSUD Karya Insani 5,Jawa Barat,Kab. Cempaka,D,Pemerintah Daerah,52,11,180,69.3,4.5,1014,Tidak,Tidak,75.4,138.0,25,6.0,128.6,21.6
+RS0012,RS Sentosa Medika 6,Jawa Barat,Kota Muarabaru,D,Pemerintah Pusat,78,5,157,47.5,7.0,660,Ya,Ya,54.5,231.0,22,4.0,74.2,82.7
+RS0013,RS Sejahtera 1,Jawa Tengah,Kab. Sidomulyo,B,Swasta,315,25,525,82.2,4.4,3569,Ya,Ya,90.3,150.0,31,5.0,194.4,33.4
+RS0014,RSUD Medika Utama 2,Jawa Tengah,Kota Karangasem,D,Pemerintah Daerah,102,11,193,74.4,2.8,1544,Ya,Ya,62.4,136.0,24,1.0,155.5,44.2
+RS0015,RSUD Karya Insani 3,Jawa Tengah,Kab. Muarabaru,D,Pemerintah Daerah,62,10,89,67.1,2.8,848,Ya,Ya,71.8,184.0,19,7.0,141.0,51.5
+RS0016,RSUD Karya Insani 4,Jawa Tengah,Kab. Karangasem,C,Pemerintah Daerah,172,14,398,93.5,5.2,2651,Ya,Ya,78.7,169.0,64,8.0,180.4,14.0
+RS0017,RS Graha Sehat 5,Jawa Tengah,Kota Karangasem,D,Swasta,49,10,189,90.6,1.5,818,Ya,Ya,63.3,181.0,39,5.0,144.3,11.2
+RS0018,RS Permata Bunda 6,Jawa Tengah,Kota Bukitraya, B,Swasta,188,24,766,88.7,3.2,3000,Ya,Ya,88.3,184.0,42,4.0,175.9,51.0
+RS0019,RS Bunda Kasih 7,Jawa Tengah,Kota Sukamaju,C, BUMN,145,17,407,74.2,4.9,1688,Ya,Ya,64.0,130.0,40,2.0,115.3,5.0
+RS0020,RSUD Sentosa Medika 8,Jawa Tengah,Kota Muarabaru,D,Pemerintah Daerah,70,5,166,64.3,4.0,376,Ya,Ya,77.6,149.0,66,5.0,172.7,11.9
+RS0021,RS Harapan Bangsa 9,Jawa Tengah,Kota Mekarsari,B,Swasta,261,24,715,47.3,3.0,3263,Ya,Ya,99.0,170.0,74,5.0,183.3,64.8
+RS0022,RSUD Husada Mulia 10,Jawa Tengah,Kota Sukamaju,C,Pemerintah Daerah,134,13,234,63.2,2.3,1773,Ya,Tidak,71.9,184.0,51,6.0,182.5,62.1
+RS0023,RS Sentosa Medika 1,DI Yogyakarta,Kota Sidomulyo,B,Swasta,334,22,529,61.6,3.8,4853,Ya,Ya,96.8,275.0,40,3.0,166.2,11.9
+RS0024,RS Husada Mulia 2,DI Yogyakarta,Kota Tanjungsari,C,SWASTA,138,15,434,57.1,4.8,2234,Ya,Ya,66.6,203.0,60,5.0,135.6,63.4
+RS0025,RSUD Permata Bunda 3,DI Yogyakarta,Kota Sidomulyo,A,Pemerintah Daerah,493,30,1098,74.1,3.5,5271,Ya,Ya,73.1,114.0,3,4.0,212.1,33.5
+RS0026,RSUD Graha Sehat 4,DI Yogyakarta,Kota Mekarsari,C,Pemerintah Daerah,140,14,334,71.6,6.2,1144,Ya,Ya,94.3,323.0,50,10.0,193.0,23.0
+RS0027,RSUD Medika Utama 5,DI Yogyakarta,Kab. Wonorejo,A,Pemerintah Daerah,514,32,907,77.3,4.7,6667,Ya,Ya,76.1,206.0,59,4.0,174.7,79.1
+RS0028,RS Sejahtera 6,DI Yogyakarta,Kab. Tanjungsari,C,TNI/POLRI,82,16,290,75.7,4.4,1070,Ya,Ya,69.1,171.0,40,5.0,128.1,46.1
+RS0029,RS Husada Mulia 1,Jawa Timur,Kota Muarabaru,C,BUMN,157,14,381,50.9,4.5,1700,Ya,Ya,72.4,175.0,34,,190.7,14.0
+RS0030,RS Cahaya Medika 2,Jawa Timur,Kota Sukajadi,D,Pemerintah Pusat,63,5,210,71.3,2.3,806,Ya,Ya,88.7,316.0,15,7.0,153.9,8.3
+RS0031,RSUD Medika Utama 3,Jawa Timur,Kota Sukajadi,D,Pemerintah Daerah,81,11,184,62.3,1.7,907,Ya,Ya,63.8,244.0,8,8.0,198.6,38.9
+RS0032,RSUD Citra Medika 4,Jawa Timur,Kota Bukitraya,B,Pemerintah Daerah,137,23,933,65.6,6.4,1458,Ya,Ya,82.6,257.0,55,5.0,214.9,42.5
+RS0033,RS Citra Medika 5,Jawa Timur,Kab. Sukajadi,C,Swasta,110,14,377,58.0,2.5,1315,Ya,Ya,74.6,172.0,25,7.0,161.0,86.6
+RS0034,RS Graha Sehat 6,Jawa Timur,Kota Tanjungsari,C,Swasta,144,15,401,36.5,3.1,669,Ya,Ya,73.6,114.0,66,5.0,176.4,20.0
+RS0035,RS Harapan Bangsa 1,Banten,Kota Wonorejo,C,Swasta,89,11,375,65.1,2.6,1130,Ya,Ya,68.2,172.0,26,3.0,142.5,34.1
+RS0036,RSUD Husada Mulia 2,Banten,Kab. Wonorejo,D,Pemerintah Daerah,37,6,223,70.2,5.2,221,Ya,Ya,72.8,187.0,32,5.0,158.0,5.0
+RS0037,RS Bunda Kasih 3,Banten,Kab. Tanjungsari,B,Swasta,225,24,913,55.1,5.3,3482,Ya,Ya,91.2,175.0,68,10.0,212.5,58.1
+RS0038,RSUD Sentosa Medika 4,Banten,Kota Sukamaju,C,Pemerintah Daerah,66,11,236,73.6,4.3,1045,Ya,Ya,65.2,145.0,42,5.0,110.0,40.6
+RS0039,RS Karya Insani 5,Banten,Kab. Cempaka,D,Swasta,60,11,128,82.4,4.3,666,Ya,Ya,68.5,152.0,53,7.0,169.8,47.9
+RS0040,RS Bhakti Husada 6,Banten,Kota Sumberjaya,C,Swasta,82,16,327,52.0,3.6,661,Ya,Ya,76.0,160.0,60,6.0,163.6,5.0
+RS0041,RS Citra Medika 7,Banten,Kota Sidomulyo,D,Swasta,78,8,189,94.7,4.2,1080,Ya,Ya,85.6,254.0,42,10.0,165.7,37.7
+RS0042,RS Citra Medika 8,Banten,Kota Sumberjaya,C,Swasta,149,13,339,47.8,4.1,2053,Ya,Ya,87.1,161.0,46,8.0,152.2,51.1
+RS0043,RS Permata Bunda 9,Banten,Kab. Karangasem,B,Swasta,235,20,675,52.4,2.7,2368,Ya,Ya,86.6,168.0,65,7.0,199.6,59.6
+RS0044,RS Husada Mulia 1,Bali,Kota Bukitraya,B,Swasta,189,22,524,59.3,6.9,2403,Ya,Ya,96.5,163.0,53,7.0,233.4,32.6
+RS0045,RSUD Citra Medika 2,Bali,Kab. Tanjungsari,D,Pemerintah Daerah,68,5,175,94.4,4.0,835,Ya,Ya,84.4,159.0,73,5.0,167.7,37.0
+RS0046,RS Permata Bunda 3,Bali,Kota Cempaka,B,TNI/POLRI,310,25,581,72.7,1.5,2303,Ya,Ya,85.1,305.0,66,7.0,164.3,5.0
+RS0047,RS Citra Medika 4,Bali,Kab. Bukitraya,B,TNI/POLRI,180,23,505,57.6,5.4,1680,Ya,Ya,86.0,262.0,58,4.0,168.4,32.8
+RS0048,RS Bhakti Husada 5,Bali,Kota Tanjungsari,C,TNI/POLRI,88,15,292,63.8,3.6,1238,Ya,Ya,82.4,171.0,71,3.0,176.7,72.0
+RS0049,RS Karya Insani 6,Bali,Kota Sukajadi,D,Pemerintah Pusat,71,7,166,73.3,2.6,666,Ya,Ya,75.4,179.0,32,5.0,,5.5
+RS0050,RS Sejahtera 7,Bali,Kab. Mekarsari,B,Swasta,204,20,578,84.6,4.5,3012,Ya,Ya,89.2,249.0,59,6.0,206.6,23.2
+RS0051,RS Medika Utama 1,Sumatera Utara,Kab. Karangasem,D,Swasta,70,11,180,65.1,4.3,672,Ya,Ya,58.4,102.0,42,5.0,94.0,74.0
+RS0052,RSUD Permata Bunda 2,Sumatera Utara,Kab. Wonorejo,C,Pemerintah Daerah,115,15,263,64.8,2.1,1242,Ya,Ya,71.6,166.0,56,5.0,121.0,66.3
+RS0053,RS Husada Mulia 3,Sumatera Utara,Kab. Girisari,C,TNI/POLRI,115,11,363,70.5,3.3,1824,Ya,Ya,59.3,204.0,28,4.0,146.7,75.8
+RS0054,RS Bhakti Husada 4,Sumatera Utara,Kab. Wonorejo,D,BUMN,69,8,149,64.6,4.3,1202,Ya,Ya,42.8,167.0,33,3.0,68.3,42.8
+RS0055,RSUD Medika Utama 5,Sumatera Utara,Kota Sukamaju,C,Pemerintah Daerah,97,11,343,65.7,5.9,1055,Ya,Ya,54.8,45.0,41,3.0,153.1,44.1
+RS0056,RS Citra Medika 6,Sumatera Utara,Kab. Sidomulyo,D,Pemerintah Pusat,51,6,201,69.5,4.2,557,Ya,Ya,61.7,198.0,57,3.0,148.5,15.1
+RS0057,RS Bhakti Husada 7,Sumatera Utara,Kota Wonorejo,B,Swasta,165,24,902,57.3,4.4,1935,Ya,Ya,87.6,189.0,31,6.0,137.7,7.9
+RS0058,RS Citra Medika 8,Sumatera Utara,Kota Sukamaju,C,Swasta,78,11,398,55.0,6.1,549,Ya,Ya,65.4,153.0,37,9.0,106.9,32.4
+RS0059,RSUD Medika Utama 9,Sumatera Utara,Kota Sukajadi,B,Pemerintah Daerah,180,21,722,51.3,5.9,3034,Ya,Ya,69.6,210.0,14,2.0,89.0,48.9
+RS0060,RS Bhakti Husada 1,Sumatera Barat,Kota Sukamaju,A,Pemerintah Pusat,342,35,1236,76.7,6.2,4466,Ya,Ya,65.5,227.0,28,5.0,152.2,75.7
+RS0061,RS Husada Mulia 2,Sumatera Barat,Kab. Muarabaru,C,Pemerintah Pusat,107,16,363,61.2,5.5,1424,Ya,Ya,75.6,194.0,43,5.0,199.6,29.6
+RS0062,RSUD Graha Sehat 3,Sumatera Barat,Kab. Sumberjaya,D,Pemerintah Daerah,69,11,187,84.7,1.5,970,Ya,Tidak,67.4,179.0,34,6.0,135.9,42.6
+RS0063,RSUD Sentosa Medika 4,Sumatera Barat,Kab. Sukajadi,D,Pemerintah Daerah,90,9,171,38.8,5.0,1068,Ya,Ya,45.3,115.0,27,2.0,102.8,5.0
+RS0064,RS Citra Medika 5,Sumatera Barat,Kab. Girisari,C,Pemerintah Pusat,109,12,322,67.7,2.2,1222,Ya,Ya,68.8,115.0,49,4.0,129.9,46.8
+RS0065,RSUD Medika Utama 6,Sumatera Barat,Kota Sumberjaya,B,Pemerintah Daerah,116,20,593,74.1,3.5,2386,Tidak,Tidak,70.9,134.0,56,4.0,158.4,46.7
+RS0066,RSUD Citra Medika 1,Riau,Kota Sukajadi,C,Pemerintah Daerah,136,11,390,80.1,3.7,1189,Ya,Ya,81.0,259.0,40,8.0,122.4,63.2
+RS0067,RS Sejahtera 2,Riau,Kota Muarabaru,D,Swasta,66,11,187,43.5,4.3,492,Ya,Ya,54.4,216.0,16,3.0,113.8,52.7
+RS0068,RS Sejahtera 3,Riau,Kota Tanjungsari,C,TNI/POLRI,133,11,396,77.7,4.5,1694,Ya,Tidak,65.2,254.0,19,4.0,122.9,52.4
+RS0069,RS Husada Mulia 4,Riau,Kota Sukajadi,D, Swasta,80,11,198,55.2,5.3,952,Tidak,Tidak,61.9,134.0,41,7.0,136.0,58.2
+RS0070,RSUD Husada Mulia 5,Riau,Kota Cempaka,D,Pemerintah Daerah,63,8,148,66.0,4.6,1190,Ya,Ya,14.5,0.0,10,0.0,82.1,53.8
+RS0071,RSUD Bunda Kasih 6,Riau,Kota Muarabaru,C,Pemerintah Daerah,108,15,308,68.6,2.5,1011,Ya,Ya,85.6,265.0,68,7.0,198.8,5.0
+RS0072,RSUD Sejahtera 7,Riau,Kab. Tanjungsari,B,Pemerintah Daerah,209,24,772,80.3,2.4,2171,Ya,Ya,48.5,115.0,42,5.0,87.1,35.7
+RS0073,RS Sejahtera 8,Riau,Kota Bukitraya,B,Swasta,159,19,505,67.4,6.8,1756,Ya,Ya,74.5,180.0,28,6.0,101.5,49.9
+RS0074,RSUD Graha Sehat 1,Kepulauan Riau,Kab. Sumberjaya,C,Pemerintah Daerah,98,11,303,76.6,4.9,1464,Ya,Tidak,42.8,131.0,34,3.0,43.6,26.7
+RS0075,RSUD Graha Sehat 2,Kepulauan Riau,Kota Mekarsari,B,Pemerintah Daerah,127,19,916,46.1,3.3,1894,Ya,Ya,76.1,200.0,32,7.0,166.8,10.9
+RS0076,RSUD Medika Utama 3,Kepulauan Riau,Kota Bukitraya,C,Pemerintah Daerah,144,16,272,134.6,4.6,1258,Ya,Ya,48.2,69.0,27,1.0,107.4,22.9
+RS0077,RS Cahaya Medika 4,Kepulauan Riau,Kab. Sidomulyo,A,Swasta,434,34,933,65.6,3.3,7285,Ya,Ya,64.6,168.0,23,2.0,101.0,48.8
+RS0078,RSUD Bunda Kasih 5,Kepulauan Riau,Kota Girisari,D,Pemerintah Daerah,59,5,172,69.1,3.3,1040,Ya,Ya,46.3,137.0,38,3.0,102.2,13.3
+RS0079,RSUD Sejahtera 6,Kepulauan Riau,Kab. Cempaka,C,Pemerintah Daerah,121,13,442,72.0,5.6,1941,Ya,Ya,71.6,141.0,27,6.0,148.4,40.1
+RS0080,RS Graha Sehat 7,Kepulauan Riau,Kota Sukamaju,C,Swasta,47,13,195,46.1,4.7,809,Ya,Ya,56.6,161.0,29,4.0,115.9,47.8
+RS0081,RSUD Husada Mulia 8,Kepulauan Riau,Kota Sidomulyo,D ,Pemerintah Daerah,86,9,164,81.8,4.7,1225,Ya,Ya,50.0,73.0,45,3.0,69.7,17.5
+RS0082,RS Permata Bunda 9,Kepulauan Riau,Kab. Tanjungsari,C,Swasta,100,16,272,61.5,7.3,1102,Tidak,Tidak,56.3,50.0,41,,131.6,22.7
+RS0083,RS Cahaya Medika 1,Jambi,Kab. Bukitraya,C,Swasta,177,14,334,60.6,5.0,2226,Ya,Ya,70.3,170.0,18,5.0,131.9,12.4
+RS0084,RS Harapan Bangsa 2,Jambi,Kab. Sukamaju,B,BUMN,168,19,620,56.5,-2.0,2188,Ya,Ya,72.5,148.0,48,3.0,145.7,49.8
+RS0085,RS Sentosa Medika 3,Jambi,Kota Sukajadi,C,Swasta,129,11,354,53.6,4.3,1586,Tidak,Tidak,48.7,87.0,28,7.0,164.4,35.4
+RS0086,RS Permata Bunda 4,Jambi,Kab. Sidomulyo,B,Pemerintah Pusat,266,19,907,88.5,5.3,2058,Ya,Ya,66.6,194.0,46,5.0,111.8,22.0
+RS0087,RS Karya Insani 5,Jambi,Kota Girisari,C,Pemerintah Pusat,129,14,193,67.4,4.8,1634,Ya,Ya,63.9,181.0,39,4.0,124.0,44.5
+RS0088,RS Sejahtera 6,Jambi,Kota Sumberjaya,B,TNI/POLRI,272,24,425,78.8,5.8,2975,Ya,Ya,69.3,201.0,65,5.0,92.0,54.2
+RS0089,RS Sentosa Medika 1,Sumatera Selatan,Kab. Girisari,D,BUMN,71,9,115,47.0,2.5,756,Ya,Ya,62.9,182.0,26,5.0,155.3,20.6
+RS0090,RSUD Medika Utama 2,Sumatera Selatan,Kota Cempaka,A,Pemerintah Daerah,423,29,1123,72.1,4.4,4909,Ya,Ya,64.7,82.0,27,8.0,162.1,34.9
+RS0091,RSUD Husada Mulia 3,Sumatera Selatan,Kab. Muarabaru,B,Pemerintah Daerah,186,25,484,71.7,2.8,2104,Ya,Ya,74.8,163.0,34,6.0,104.4,49.7
+RS0092,RS Husada Mulia 4,Sumatera Selatan,Kab. Tanjungsari,B,Pemerintah Pusat,101,23,435,68.5,4.4,1682,Ya,Ya,77.4,286.0,65,7.0,130.4,22.3
+RS0093,RSUD Sentosa Medika 5,Sumatera Selatan,Kab. Sukamaju,C,Pemerintah Daerah,155,15,296,53.8,5.3,1051,Ya,Ya,54.2,112.0,31,,103.0,38.0
+RS0094,RS Medika Utama 6,Sumatera Selatan,Kota Cempaka,D,Swasta,84,10,118,55.3,3.1,1044,Tidak,Tidak,40.4,,32,,73.9,55.8
+RS0095,RS Karya Insani 7,Sumatera Selatan,Kab. Bukitraya,C,Swasta,89,12,241,66.8,3.6,1017,Tidak,Tidak,51.0,119.0,14,5.0,117.7,41.0
+RS0096,RS Citra Medika 8,Sumatera Selatan,Kota Wonorejo,A,Swasta,476,32,963,56.7,2.4,7411,Ya,Ya,78.9,171.0,49,6.0,142.8,42.0
+RS0097,RS Bhakti Husada 9,Sumatera Selatan,Kab. Sukajadi,C,Swasta,129,17,303,76.8,2.6,2214,Ya,Ya,52.6,59.0,46,2.0,144.4,46.4
+RS0098,RSUD Karya Insani 10,Sumatera Selatan,Kota Muarabaru,D,Pemerintah Daerah,50,10,172,86.3,3.6,515,Ya,Ya,40.5,93.0,0,4.0,81.0,53.1
+RS0099,RS Karya Insani 1,Bengkulu,Kab. Mekarsari,B,Swasta,236,23,636,50.9,5.7,2690,Ya,Ya,89.0,301.0,38,4.0,199.4,45.5
+RS0100,RS Citra Medika 2,Bengkulu,Kab. Bukitraya,D,Swasta,38,9,160,40.3,3.9,307,Ya,Ya,54.6,147.0,45,3.0,83.0,20.2
+RS0101,RSUD Citra Medika 3,Bengkulu,Kota Sidomulyo,C,Pemerintah Daerah,132,13,205,76.8,4.4,1614,Tidak,Tidak,59.9,198.0,32,5.0,132.7,59.7
+RS0102,RS Cahaya Medika 4,Bengkulu,Kab. Cempaka,C,TNI/POLRI,127,17,235,80.8,4.5,1426,Ya,Ya,67.3,155.0,25,6.0,153.5,42.7
+RS0103,RS Graha Sehat 5,Bengkulu,Kota Karangasem,B,TNI/POLRI,222,21,583,72.5,3.2,2329,Ya,Ya,65.7,,52,10.0,128.7,58.9
+RS0104,RS Sejahtera 6,Bengkulu,Kab. Wonorejo,D,Swasta,100,11,141,71.1,5.0,964,Ya,Ya,41.7,71.0,24,2.0,68.1,64.0
+RS0105,RSUD Bunda Kasih 7,Bengkulu,Kota Cempaka,C,Pemerintah Daerah,137,17,415,51.0,4.6,1607,Ya,Ya,65.3,200.0,25,3.0,130.0,52.3
+RS0106,RS Husada Mulia 8,Bengkulu,Kab. Sidomulyo,A,Swasta,213,33,821,70.4,1.8,2313,Ya,Ya,73.2,177.0,27,3.0,152.7,35.1
+RS0107,RS Citra Medika 1,Lampung,Kab. Sukamaju,C,Swasta,138,11,357,68.2,4.1,1530,Ya,Ya,63.3,207.0,50,3.0,134.2,44.7
+RS0108,RS Sentosa Medika 2,Lampung,Kota Tanjungsari,C,Swasta,87,15,276,66.7,3.0,1174,Ya,Ya,84.2,125.0,53,4.0,170.6,19.4
+RS0109,RSUD Bhakti Husada 3,Lampung,Kab. Tanjungsari,C,Pemerintah Daerah,101,17,299,71.5,5.6,1063,Tidak,Tidak,72.0,233.0,50,3.0,157.9,24.1
+RS0110,RSUD Citra Medika 4,Lampung,Kab. Muarabaru,C,Pemerintah Daerah,143,16,272,60.3,1.6,1871,Ya,Ya,52.5,143.0,0,1.0,161.7,68.7
+RS0111,RS Bunda Kasih 5,Lampung,Kab. Cempaka,B,Pemerintah Pusat,258,23,675,63.7,3.6,2438,Ya,Ya,77.4,189.0,46,4.0,146.6,29.2
+RS0112,RS Permata Bunda 6,Lampung,Kab. Sukajadi,C,Swasta,120,15,402,73.9,5.8,1339,Ya,Ya,61.4,182.0,31,9.0,123.7,5.0
+RS0113,RS Husada Mulia 7,Lampung,Kota Mekarsari,B,Swasta,229,19,521,65.3,1.5,2450,Ya,Ya,69.1,278.0,30,7.0,181.4,21.4
+RS0114,RSUD Citra Medika 1,Bangka Belitung,Kota Cempaka,B,Pemerintah Daerah,255,22,653,63.1,4.8,3919,Ya,Ya,68.4,186.0,46,8.0,118.1,63.5
+RS0115,RSUD Graha Sehat 2,Bangka Belitung,Kota Girisari,C,Pemerintah Daerah,112,11,469,60.8,5.1,1397,Ya,Ya,53.7,156.0,38,6.0,78.4,59.6
+RS0116,RS Permata Bunda 3,Bangka Belitung,Kab. Girisari,C,Swasta,70,12,270,55.9,2.1,714,Ya,Ya,44.1,132.0,38,4.0,81.9,5.0
+RS0117,RSUD Medika Utama 4,Bangka Belitung,Kab. Tanjungsari,C,Pemerintah Daerah,76,12,461,83.9,6.9,1183,Ya,Ya,49.1,111.0,42,3.0,110.8,84.3
+RS0118,RSUD Sentosa Medika 5,Bangka Belitung,Kab. Muarabaru, B,Pemerintah Daerah,206,21,530,62.7,3.6,3562,Ya,Tidak,69.3,240.0,49,7.0,209.9,30.0
+RS0119,RS Harapan Bangsa 6,Bangka Belitung,Kota Girisari,A,TNI/POLRI,408,32,936,86.5,5.1,5084,Ya,Ya,50.9,157.0,16,2.0,100.6,38.5
+RS0120,RS Bhakti Husada 7,Bangka Belitung,Kota Muarabaru,D,TNI/POLRI,29,9,196,79.9,6.0,325,Tidak,Tidak,46.6,130.0,23,3.0,106.6,48.6
+RS0121,RSUD Bhakti Husada 1,Aceh,Kota Girisari, B,Pemerintah Daerah,279,24,579,73.0,5.4,2948,Ya,Ya,59.4,145.0,28,6.0,165.0,78.3
+RS0122,RS Harapan Bangsa 2,Aceh,Kota Sidomulyo,C,BUMN,102,13,455,67.0,3.7,1046,Ya,Ya,43.5,89.0,0,7.0,115.3,72.8
+RS0123,RS Sentosa Medika 3,Aceh,Kota Tanjungsari,C,Swasta,114,16,230,63.6,6.8,1325,Ya,Tidak,38.5,141.0,33,3.0,77.2,17.9
+RS0124,RS Permata Bunda 4,Aceh,Kota Sumberjaya,D,Swasta,65,7,86,74.2,1.8,1011,Ya,Ya,67.2,252.0,38,3.0,146.0,54.3
+RS0125,RS Husada Mulia 5,Aceh,Kab. Sumberjaya,C,TNI/POLRI,131,15,254,72.3,5.0,2520,Ya,Ya,74.5,233.0,68,6.0,189.3,48.3
+RS0126,RS Permata Bunda 6,Aceh,Kab. Sukamaju,D,Swasta,78,8,96,49.4,2.0,943,Ya,Ya,43.5,128.0,17,,118.9,41.9
+RS0127,RS Sejahtera 1,Kalimantan Barat,Kab. Sumberjaya,C,Swasta,96,14,305,69.3,2.9,1121,Ya,Ya,49.8,128.0,48,2.0,108.6,70.4
+RS0128,RSUD Karya Insani 2,Kalimantan Barat,Kota Muarabaru,D,Pemerintah Daerah,56,5,162,99.0,2.8,620,Ya,Ya,57.1,202.0,60,3.0,130.0,70.8
+RS0129,RS Citra Medika 3,Kalimantan Barat,Kota Girisari,B,Swasta,167,19,650,58.8,5.1,1738,Ya,Ya,53.9,150.0,17,4.0,116.5,55.8
+RS0130,RS Sejahtera 4,Kalimantan Barat,Kab. Bukitraya,B,Swasta,122,23,834,50.1,2.9,1762,Ya,Ya,63.3,124.0,35,7.0,86.3,70.8
+RS0131,RS Permata Bunda 5,Kalimantan Barat,Kota Sumberjaya,C,Swasta,94,15,214,67.3,5.1,1127,Tidak,Tidak,68.0,158.0,31,6.0,139.6,38.4
+RS0132,RSUD Permata Bunda 6,Kalimantan Barat,Kota Cempaka,C,Pemerintah Daerah,87,11,428,49.8,6.4,1131,Ya,Ya,37.2,73.0,34,0.0,57.7,43.9
+RS0133,RS Permata Bunda 1,Kalimantan Tengah,Kota Sukamaju,D,BUMN,47,6,139,45.3,4.3,506,Ya,Ya,68.2,120.0,47,6.0,133.0,53.9
+RS0134,RS Harapan Bangsa 2,Kalimantan Tengah,Kab. Tanjungsari,B,Swasta,181,19,625,65.7,3.6,2301,Ya,Ya,59.5,136.0,42,6.0,121.0,34.9
+RS0135,RS Medika Utama 3,Kalimantan Tengah,Kab. Muarabaru,C,Pemerintah Pusat,100,15,405,83.4,5.1,1138,Ya,Ya,65.1,142.0,31,3.0,124.3,53.7
+RS0136,RS Sejahtera 4,Kalimantan Tengah,Kab. Sukajadi,B,Pemerintah Pusat,268,20,502,68.1,3.5,3005,Ya,Ya,92.7,171.0,36,6.0,,47.6
+RS0137,RSUD Harapan Bangsa 5,Kalimantan Tengah,Kab. Sidomulyo,C,Pemerintah Daerah,140,12,277,66.5,4.9,1741,Ya,Ya,80.1,255.0,78,4.0,176.5,38.5
+RS0138,RS Harapan Bangsa 6,Kalimantan Tengah,Kab. Tanjungsari,C,BUMN,141,17,262,67.1,4.4,1683,Ya,Ya,56.6,138.0,47,3.0,161.2,15.8
+RS0139,RS Citra Medika 7,Kalimantan Tengah,Kab. Karangasem,C,Swasta,87,17,369,60.5,3.1,1008,Ya,Ya,58.8,99.0,27,0.0,,62.3
+RS0140,RS Sentosa Medika 8,Kalimantan Tengah,Kota Tanjungsari,D,TNI/POLRI,64,8,183,55.9,5.3,522,Ya,Ya,46.0,53.0,30,6.0,104.8,69.3
+RS0141,RS Bhakti Husada 1,Kalimantan Selatan,Kab. Cempaka,C,Swasta,120,17,401,80.8,3.3,909,Ya,Ya,52.2,151.0,31,8.0,88.4,33.8
+RS0142,RSUD Sentosa Medika 2,Kalimantan Selatan,Kota Sumberjaya,D,Pemerintah Daerah,39,8,145,91.0,5.8,533,Ya,Ya,60.4,93.0,56,4.0,110.0,41.2
+RS0143,RS Sentosa Medika 3,Kalimantan Selatan,Kota Wonorejo,D,Swasta,77,9,158,67.6,4.6,732,Ya,Ya,46.5,136.0,19,7.0,71.9,16.7
+RS0144,RS Sentosa Medika 4,Kalimantan Selatan,Kota Tanjungsari,D,Swasta,75,5,169,66.7,6.2,1054,Ya,Ya,43.0,95.0,23,2.0,154.9,23.5
+RS0145,RS Sentosa Medika 5,Kalimantan Selatan,Kab. Cempaka,C,Swasta,126,12,378,85.5,5.1,1382,Ya,Ya,77.5,166.0,50,7.0,151.2,32.6
+RS0146,RS Graha Sehat 6,Kalimantan Selatan,Kab. Tanjungsari,C,Swasta,142,12,258,89.0,4.7,1312,Ya,Ya,52.9,85.0,36,0.0,84.7,46.7
+RS0147,RSUD Bunda Kasih 7,Kalimantan Selatan,Kab. Girisari,D,Pemerintah Daerah,58,10,130,55.5,3.6,588,Ya,Tidak,54.3,111.0,38,7.0,114.7,55.7
+RS0148,RSUD Harapan Bangsa 8,Kalimantan Selatan,Kota Karangasem,C,Pemerintah Daerah,91,12,324,99.0,4.4,1314,Tidak,Tidak,52.6,111.0,16,,119.6,51.7
+RS0149,RS Bhakti Husada 9,Kalimantan Selatan,Kab. Sukamaju,B,BUMN,231,24,745,60.7,3.6,2046,Ya,Ya,87.2,203.0,28,4.0,182.7,16.4
+RS0150,RS Harapan Bangsa 10,Kalimantan Selatan,Kab. Tanjungsari,B,Swasta,271,23,717,82.7,4.1,3812,Tidak,Tidak,52.4,199.0,38,3.0,133.8,49.3
+RS0151,RSUD Harapan Bangsa 1,Kalimantan Timur,Kab. Girisari,B,Pemerintah Daerah,308,23,712,75.8,4.1,4314,Ya,Ya,58.0,176.0,36,5.0,130.5,52.1
+RS0152,RS Harapan Bangsa 2,Kalimantan Timur,Kab. Cempaka,D,Pemerintah Pusat,50,9,107,79.7,4.1,717,Ya,Ya,68.8,199.0,23,4.0,153.1,46.3
+RS0153,RSUD Husada Mulia 3,Kalimantan Timur,Kab. Wonorejo,C,Pemerintah Daerah,101,11,485,59.3,3.0,1205,Ya,Ya,40.5,151.0,15,4.0,,64.6
+RS0154,RS Permata Bunda 4,Kalimantan Timur,Kota Wonorejo,D,Swasta,33,11,171,63.0,2.4,295,Ya,Ya,54.6,129.0,6,2.0,100.1,47.6
+RS0155,RSUD Cahaya Medika 5,Kalimantan Timur,Kab. Girisari,D,Pemerintah Daerah,40,8,205,60.3,4.3,592,Ya,Ya,43.1,103.0,33,4.0,123.1,29.4
+RS0156,RSUD Bunda Kasih 6,Kalimantan Timur,Kota Tanjungsari,C,Pemerintah Daerah,156,11,387,61.7,6.2,1753,Ya,Ya,59.0,76.0,28,6.0,89.9,34.6
+RS0157,RS Bhakti Husada 7,Kalimantan Timur,Kota Karangasem,C,Swasta,147,11,431,67.4,2.4,2185,Ya,Ya,61.1,157.0,47,5.0,158.7,50.4
+RS0158,RSUD Citra Medika 8,Kalimantan Timur,Kab. Mekarsari,B,Pemerintah Daerah,201,25,530,65.5,3.7,1517,Ya,Ya,85.3,144.0,53,8.0,165.5,54.4
+RS0159,RSUD Karya Insani 9,Kalimantan Timur,Kota Sumberjaya,C,Pemerintah Daerah,172,17,306,75.8,3.4,2729,Ya,Ya,49.1,94.0,33,4.0,96.0,46.6
+RS0160,RSUD Sentosa Medika 10,Kalimantan Timur,Kab. Tanjungsari,C,Pemerintah Daerah,181,11,452,83.2,5.3,1422,Ya,Ya,64.2,173.0,60,4.0,139.0,65.2
+RS0161,RSUD Permata Bunda 1,Kalimantan Utara,Kab. Bukitraya,B,Pemerintah Daerah,262,23,705,64.1,3.9,2341,Ya,Ya,54.2,137.0,17,3.0,119.0,13.5
+RS0162,RSUD Bhakti Husada 2,Kalimantan Utara,Kab. Sukajadi,D,Pemerintah Daerah,37,11,180,59.3,3.5,430,Ya,Ya,32.5,116.0,19,2.0,10.9,52.5
+RS0163,RSUD Harapan Bangsa 3,Kalimantan Utara,Kota Mekarsari,C,Pemerintah Daerah,81,11,348,64.1,2.9,1277,Ya,Ya,42.2,95.0,26,2.0,111.7,56.7
+RS0164,RS Citra Medika 4,Kalimantan Utara,Kab. Sukamaju,C,Swasta,119,13,247,42.0,3.6,2043,Ya,Tidak,30.8,47.0,24,1.0,69.0,39.9
+RS0165,RS Karya Insani 5,Kalimantan Utara,Kota Sumberjaya,C,Swasta,170,15,286,81.2,4.4,2211,Ya,Ya,7.3,0.0,0,,36.0,60.1
+RS0166,RS Permata Bunda 6,Kalimantan Utara,Kota Karangasem,C,Swasta,131,16,409,69.4,3.8,2494,Tidak,Tidak,49.1,160.0,26,5.0,92.1,48.7
+RS0167,RS Cahaya Medika 7,Kalimantan Utara,Kota Cempaka,C,Pemerintah Pusat,107,12,287,64.8,5.2,1324,Ya,Ya,43.5,144.0,12,4.0,74.7,23.5
+RS0168,RS Sejahtera 8,Kalimantan Utara,Kota Girisari,C,Pemerintah Pusat,63,11,436,64.9,5.7,726,Ya,Ya,22.4,0.0,6,3.0,6.8,75.0
+RS0169,RS Harapan Bangsa 9,Kalimantan Utara,Kota Sukajadi,D,Swasta,70,8,153,82.0,5.6,1088,Ya,Ya,26.7,0.0,15,5.0,67.0,50.8
+RS0170,RS Cahaya Medika 10,Kalimantan Utara,Kota Muarabaru,D ,TNI/POLRI,84,7,194,67.2,4.2,763,Ya,Ya,37.6,47.0,36,2.0,98.9,52.6
+RS0171,RSUD Medika Utama 1,Sulawesi Utara,Kab. Wonorejo,B,Pemerintah Daerah,241,19,384,56.6,4.4,3040,Ya,Ya,84.7,165.0,81,5.0,194.1,43.4
+RS0172,RSUD Sejahtera 2,Sulawesi Utara,Kota Mekarsari,C,Pemerintah Daerah,151,14,374,78.0,4.3,1677,Ya,Ya,43.8,129.0,23,5.0,78.2,77.3
+RS0173,RSUD Medika Utama 3,Sulawesi Utara,Kota Girisari,D,Pemerintah Daerah,67,11,165,77.0,6.9,655,Ya,Ya,54.4,40.0,47,5.0,84.4,52.2
+RS0174,RS Bhakti Husada 4,Sulawesi Utara,Kab. Bukitraya,C,Swasta,96,13,355,99.0,2.4,1290,Ya,Ya,79.6,226.0,30,9.0,187.5,53.3
+RS0175,RSUD Karya Insani 5,Sulawesi Utara,Kab. Muarabaru,C,Pemerintah Daerah,118,15,266,72.6,3.4,1916,Ya,Ya,52.4,125.0,31,5.0,107.8,45.4
+RS0176,RS Sentosa Medika 6,Sulawesi Utara,Kab. Sukajadi,D,Swasta,78,10,201,91.3,4.1,1170,Ya,Ya,42.2,128.0,35,1.0,57.0,20.7
+RS0177,RSUD Cahaya Medika 7,Sulawesi Utara,Kota Bukitraya,C,Pemerintah Daerah,121,16,368,62.0,4.6,1139,Ya,Ya,66.6,215.0,48,5.0,150.0,41.9
+RS0178,RSUD Bhakti Husada 8,Sulawesi Utara,Kab. Karangasem,C,Pemerintah Daerah,134,12,417,61.7,2.8,1519,Ya,Ya,41.7,50.0,20,4.0,98.4,59.0
+RS0179,RS Graha Sehat 1,Sulawesi Tengah,Kota Sukamaju,C,Swasta,61,16,344,75.3,3.9,687,Ya,Ya,48.5,132.0,11,2.0,87.8,45.2
+RS0180,RS Harapan Bangsa 2,Sulawesi Tengah,Kota Sidomulyo,C,Swasta,122,12,239,87.4,4.5,1534,Ya,Ya,67.2,191.0,65,7.0,138.5,46.4
+RS0181,RS Husada Mulia 3,Sulawesi Tengah,Kota Sukajadi,B,Swasta,223,24,543,44.7,5.4,3273,Ya,Ya,84.5,163.0,62,12.0,163.0,29.8
+RS0182,RSUD Sentosa Medika 4,Sulawesi Tengah,Kab. Bukitraya,D,Pemerintah Daerah,52,9,163,80.9,4.8,705,Ya,Ya,34.7,,20,3.0,111.8,44.1
+RS0183,RSUD Harapan Bangsa 5,Sulawesi Tengah,Kota Bukitraya,C,Pemerintah Daerah,91,13,330,68.6,6.5,744,Ya,Ya,57.1,104.0,35,2.0,114.6,76.0
+RS0184,RS Bhakti Husada 6,Sulawesi Tengah,Kota Karangasem,D,Swasta,69,11,150,70.2,4.1,750,Ya,Ya,60.1,164.0,44,0.0,107.3,37.9
+RS0185,RS Karya Insani 7,Sulawesi Tengah,Kab. Sidomulyo,C,Swasta,98,15,383,71.2,4.5,841,Ya,Ya,76.7,246.0,38,5.0,179.5,81.0
+RS0186,RSUD Medika Utama 8,Sulawesi Tengah,Kab. Sumberjaya,D,Pemerintah Daerah,68,8,131,80.1,3.1,599,Ya,Ya,48.0,121.0,3,4.0,174.8,21.1
+RS0187,RS Bunda Kasih 9,Sulawesi Tengah,Kab. Mekarsari,B,TNI/POLRI,220,19,592,72.4,4.9,1728,Tidak,Tidak,51.4,191.0,24,5.0,154.2,37.2
+RS0188,RSUD Husada Mulia 10,Sulawesi Tengah,Kab. Karangasem,C,Pemerintah Daerah,3200,12,207,64.3,3.3,880,Ya,Ya,61.6,,20,3.0,120.5,5.0
+RS0189,RS Cahaya Medika 1,Sulawesi Selatan,Kab. Sukamaju,B,Pemerintah Pusat,318,24,744,86.9,7.3,3220,Ya,Ya,80.0,196.0,31,4.0,126.5,5.0
+RS0190,RSUD Husada Mulia 2,Sulawesi Selatan,Kab. Mekarsari,B,Pemerintah Daerah,232,22,555,78.6,4.7,3809,Ya,Ya,52.8,146.0,27,3.0,88.6,50.7
+RS0191,RS Karya Insani 3,Sulawesi Selatan,Kab. Sidomulyo,C,TNI/POLRI,164,16,320,99.0,4.1,1761,Ya,Ya,60.4,169.0,33,4.0,110.5,5.0
+RS0192,RS Karya Insani 4,Sulawesi Selatan,Kab. Mekarsari,D,Swasta,47,6,230,71.3,6.4,750,Ya,Ya,44.5,126.0,9,0.0,105.7,55.7
+RS0193,RS Medika Utama 5,Sulawesi Selatan,Kab. Girisari,C,Pemerintah Pusat,129,14,290,58.3,5.0,1582,Ya,Ya,54.3,141.0,28,2.0,110.2,41.1
+RS0194,RSUD Medika Utama 6,Sulawesi Selatan,Kota Cempaka,D,Pemerintah Daerah,73,7,242,70.4,4.1,962,Ya,Ya,46.3,150.0,41,5.0,146.4,42.4
+RS0195,RS Bhakti Husada 7,Sulawesi Selatan,Kota Wonorejo,C,Swasta,79,14,302,70.3,7.1,948,Ya,Tidak,50.3,83.0,24,5.0,92.4,43.9
+RS0196,RSUD Harapan Bangsa 1,Sulawesi Tenggara,Kab. Sumberjaya,C,Pemerintah Daerah,91,16,347,80.1,5.1,1171,Ya,Ya,30.1,71.0,5,4.0,83.5,59.4
+RS0197,RS Husada Mulia 2,Sulawesi Tenggara,Kab. Mekarsari,B,Pemerintah Pusat,242,22,663,61.3,3.7,3655,Ya,Ya,50.7,112.0,19,2.0,45.9,64.5
+RS0198,RS Graha Sehat 3,Sulawesi Tenggara,Kab. Bukitraya,C,TNI/POLRI,95,11,293,74.1,3.9,965,Ya,Ya,48.6,49.0,2,5.0,127.9,32.4
+RS0199,RSUD Sentosa Medika 4,Sulawesi Tenggara,Kab. Muarabaru,B,Pemerintah Daerah,290,19,652,57.7,3.4,2174,Ya,Ya,53.8,82.0,36,6.0,99.2,53.3
+RS0200,RSUD Permata Bunda 5,Sulawesi Tenggara,Kota Sidomulyo,B,Pemerintah Daerah,208,20,813,66.0,8.7,2667,Ya,Ya,35.3,106.0,27,1.0,91.1,81.1
+RS0201,RS Permata Bunda 6,Sulawesi Tenggara,Kota Bukitraya,C,Swasta,68,12,344,49.4,4.9,1037,Ya,Ya,43.3,90.0,43,4.0,64.6,55.9
+RS0202,RS Bhakti Husada 7,Sulawesi Tenggara,Kota Sumberjaya,D,Swasta,75,7,182,57.0,5.8,466,Tidak,Tidak,19.6,0.0,11,2.0,5.0,105.3
+RS0203,RS Sentosa Medika 8,Sulawesi Tenggara,Kota Cempaka,B,TNI/POLRI,179,25,843,56.7,1.6,3264,Ya,Ya,57.5,133.0,18,0.0,131.5,72.7
+RS0204,RS Citra Medika 1,Gorontalo,Kab. Mekarsari,B,Swasta,201,25,659,75.6,8.5,1614,Ya,Ya,44.1,151.0,47,3.0,,57.9
+RS0205,RS Sentosa Medika 2,Gorontalo,Kota Sidomulyo,A,Swasta,490,31,1050,53.3,3.2,7011,Ya,Ya,72.7,117.0,49,5.0,129.7,43.9
+RS0206,RSUD Harapan Bangsa 3,Gorontalo,Kab. Girisari,D,Pemerintah Daerah,55,6,148,83.7,3.6,604,Ya,Ya,18.9,0.0,26,1.0,61.4,48.8
+RS0207,RSUD Sejahtera 4,Gorontalo,Kota Sukajadi,C,Pemerintah Daerah,114,12,222,79.2,3.6,1534,Ya,Ya,63.8,93.0,23,8.0,71.4,28.4
+RS0208,RS Karya Insani 5,Gorontalo,Kab. Wonorejo,B,Swasta,195,23,465,59.7,4.2,3050,Ya,Ya,47.0,,11,6.0,86.6,90.4
+RS0209,RS Sejahtera 6,Gorontalo,Kab. Mekarsari,A,Swasta,403,35,1278,69.6,3.0,4553,Ya,Ya,52.6,74.0,17,4.0,77.3,56.0
+RS0210,RSUD Karya Insani 7,Gorontalo,Kab. Bukitraya,D,Pemerintah Daerah,42,7,218,66.9,3.6,571,Ya,Ya,18.0,0.0,12,0.0,80.5,40.8
+RS0211,RS Husada Mulia 8,Gorontalo,Kab. Sukajadi,D,Swasta,57,9,154,72.9,4.6,511,Tidak,Tidak,15.6,0.0,5,1.0,97.0,15.8
+RS0212,RS Bhakti Husada 9,Gorontalo,Kota Girisari,B,TNI/POLRI,212,19,339,72.4,4.8,2380,Ya,Ya,30.1,,16,0.0,122.8,46.9
+RS0213,RS Bunda Kasih 1,Sulawesi Barat,Kab. Girisari,c ,Swasta,125,11,240,50.3,4.1,1301,Tidak,Tidak,25.1,0.0,19,1.0,39.8,87.2
+RS0214,RSUD Graha Sehat 2,Sulawesi Barat,Kota Tanjungsari,D,Pemerintah Daerah,59,8,179,73.1,6.0,924,Ya,Ya,28.1,0.0,14,5.0,78.4,26.7
+RS0215,RSUD Bunda Kasih 3,Sulawesi Barat,Kota Sumberjaya,C,Pemerintah Daerah,78,16,240,48.4,2.9,515,Ya,Ya,37.3,124.0,26,2.0,107.5,51.2
+RS0216,RSUD Permata Bunda 4,Sulawesi Barat,Kab. Sukamaju,D,Pemerintah Daerah,60,9,172,64.3,3.5,653,Ya,Ya,19.2,0.0,10,7.0,39.1,57.2
+RS0217,RS Karya Insani 5,Sulawesi Barat,Kota Sumberjaya,A,Swasta,398,31,1403,78.6,4.7,5691,Ya,Ya,41.6,91.0,18,4.0,81.9,59.1
+RS0218,RS Sentosa Medika 6,Sulawesi Barat,Kota Mekarsari,C,TNI/POLRI,88,14,269,61.0,2.3,1089,Ya,Ya,62.6,143.0,38,0.0,138.8,59.0
+RS0219,RS Harapan Bangsa 7,Sulawesi Barat,Kab. Wonorejo,D,Swasta,46,9,143,64.0,1.9,686,Ya,Ya,27.6,0.0,24,4.0,65.7,34.2
+RS0220,RSUD Sejahtera 8,Sulawesi Barat,Kab. Wonorejo,B,Pemerintah Daerah,154,22,564,72.2,2.8,2701,Ya,Ya,36.1,111.0,15,4.0,62.2,57.8
+RS0221,RS Permata Bunda 9,Sulawesi Barat,Kota Muarabaru,C,Swasta,39,11,378,73.0,4.8,474,Ya,Ya,26.5,0.0,21,6.0,108.3,68.6
+RS0222,RSUD Husada Mulia 1,Nusa Tenggara Barat,Kab. Sukamaju,A,Pemerintah Daerah,411,33,957,55.4,1.5,6416,Ya,Ya,59.2,173.0,31,7.0,135.7,37.2
+RS0223,RS Permata Bunda 2,Nusa Tenggara Barat,Kab. Mekarsari,C,Pemerintah Pusat,111,17,393,78.6,5.3,1772,Ya,Ya,20.1,0.0,21,2.0,48.9,81.6
+RS0224,RS Karya Insani 3,Nusa Tenggara Barat,Kab. Sukamaju,C,Swasta,118,16,310,58.7,3.5,681,Ya,Ya,23.2,0.0,18,6.0,51.2,36.8
+RS0225,RS Harapan Bangsa 4,Nusa Tenggara Barat,Kab. Mekarsari,D,Swasta,59,5,199,72.4,2.6,607,Ya,Ya,35.4,29.0,11,1.0,54.3,43.2
+RS0226,RS Harapan Bangsa 5,Nusa Tenggara Barat,Kab. Sidomulyo,C,BUMN,146,14,321,66.8,3.1,1138,Ya,Ya,43.2,98.0,21,2.0,101.4,31.0
+RS0227,RSUD Husada Mulia 6,Nusa Tenggara Barat,Kota Muarabaru, B,Pemerintah Daerah,181,20,828,86.5,4.7,1518,Ya,Ya,57.1,168.0,45,5.0,129.7,23.1
+RS0228,RS Permata Bunda 7,Nusa Tenggara Barat,Kota Sumberjaya,D,Swasta,50,8,115,66.3,4.7,590,Ya,Ya,9.0,0.0,7,2.0,17.6,83.4
+RS0229,RS Karya Insani 8,Nusa Tenggara Barat,Kota Sukajadi,C,Swasta,65,13,340,90.9,5.3,998,Ya,Ya,43.9,112.0,45,2.0,84.5,52.7
+RS0230,RSUD Permata Bunda 1,Nusa Tenggara Timur,Kab. Sukajadi,B,Pemerintah Daerah,233,21,541,57.1,5.4,2829,Ya,Ya,31.2,48.0,0,2.0,76.1,48.7
+RS0231,RS Bhakti Husada 2,Nusa Tenggara Timur,Kab. Sukajadi,B,Swasta,233,20,474,80.0,2.9,3290,Ya,Ya,31.3,99.0,28,1.0,80.5,111.2
+RS0232,RS Citra Medika 3,Nusa Tenggara Timur,Kota Tanjungsari,B,Swasta,165,21,469,49.7,4.1,2396,Ya,Tidak,68.4,124.0,36,6.0,121.9,65.6
+RS0233,RSUD Sejahtera 4,Nusa Tenggara Timur,Kota Sukajadi,B,Pemerintah Daerah,147,23,945,61.7,3.6,1844,Ya,Ya,54.1,129.0,39,5.0,138.6,56.9
+RS0234,RS Sentosa Medika 5,Nusa Tenggara Timur,Kab. Sidomulyo,D,Pemerintah Pusat,89,6,155,76.1,2.4,714,Ya,Ya,35.1,69.0,0,7.0,79.5,82.1
+RS0235,RS Permata Bunda 6,Nusa Tenggara Timur,Kab. Tanjungsari,C,Swasta,112,16,215,53.7,5.8,1174,Ya,Tidak,19.6,0.0,0,0.0,5.0,38.1
+RS0236,RSUD Harapan Bangsa 7,Nusa Tenggara Timur,Kab. Sukamaju,B,Pemerintah Daerah,269,21,418,60.6,3.9,3162,Ya,Ya,46.3,106.0,35,1.0,87.3,62.1
+RS0237,RSUD Karya Insani 8,Nusa Tenggara Timur,Kota Tanjungsari,C,Pemerintah Daerah,110,12,281,76.1,4.9,1038,Ya,Ya,21.4,0.0,5,1.0,81.9,63.0
+RS0238,RSUD Husada Mulia 9,Nusa Tenggara Timur,Kota Karangasem,B,Pemerintah Daerah,232,24,616,72.3,3.6,3484,Ya,Ya,62.5,163.0,28,6.0,163.9,43.6
+RS0239,RS Bhakti Husada 1,Maluku,Kota Karangasem,c ,Pemerintah Pusat,91,16,261,63.3,5.3,833,Ya,Ya,51.0,99.0,20,4.0,136.1,18.8
+RS0240,RS Sejahtera 2,Maluku,Kota Girisari,B,Swasta,302,22,606,60.7,3.9,4569,Ya,Ya,70.2,188.0,52,3.0,155.7,78.2
+RS0241,RSUD Karya Insani 3,Maluku,Kota Mekarsari,C,Pemerintah Daerah,145,17,254,58.7,5.0,1215,Ya,Ya,12.5,0.0,0,3.0,19.9,47.6
+RS0242,RS Cahaya Medika 4,Maluku,Kota Bukitraya,D,Pemerintah Pusat,55,10,151,76.2,4.5,940,Tidak,Tidak,49.8,,38,6.0,91.9,18.8
+RS0243,RSUD Karya Insani 5,Maluku,Kab. Sumberjaya,B,Pemerintah Daerah,192,24,358,63.8,3.3,2560,Ya,Tidak,38.1,94.0,13,1.0,82.1,19.8
+RS0244,RS Cahaya Medika 6,Maluku,Kota Sumberjaya,B,TNI/POLRI,236,21,389,62.4,2.8,2365,Ya,Ya,69.4,122.0,53,4.0,172.3,38.3
+RS0245,RS Sejahtera 7,Maluku,Kab. Cempaka,B,Swasta,283,21,664,42.7,1.5,4536,Ya,Ya,60.2,85.0,52,3.0,137.8,22.9
+RS0246,RS Bunda Kasih 1,Maluku Utara,Kota Sukamaju,C,Swasta,152,12,288,63.9,4.7,2247,Ya,Ya,37.8,86.0,33,1.0,82.5,38.2
+RS0247,RS Sejahtera 2,Maluku Utara,Kab. Sukajadi,B,Swasta,204,25,564,86.3,2.9,1894,Ya,Ya,51.8,70.0,21,4.0,131.0,87.5
+RS0248,RS Medika Utama 3,Maluku Utara,Kota Karangasem,D,Pemerintah Pusat,67,7,181,80.5,3.7,1113,Ya,Ya,68.4,156.0,37,5.0,122.6,37.3
+RS0249,RS Citra Medika 4,Maluku Utara,Kota Mekarsari,C,Swasta,137,11,318,88.7,4.8,1764,Ya,Ya,28.1,0.0,13,2.0,57.8,56.8
+RS0250,RS Cahaya Medika 5,Maluku Utara,Kota Sukajadi,D,Swasta,51,9,170,90.2,3.2,638,Ya,Ya,36.5,47.0,20,0.0,88.4,84.8
+RS0251,RS Cahaya Medika 6,Maluku Utara,Kota Sumberjaya,C,Swasta,93,16,386,55.3,3.3,1028,Tidak,Tidak,29.3,0.0,3,6.0,77.1,75.1
+RS0252,RS Husada Mulia 1,Papua,Kota Girisari,C,Swasta,91,16,281,76.6,4.2,1035,Ya,Ya,57.5,,63,2.0,129.2,47.0
+RS0253,RS Citra Medika 2,Papua,Kab. Sukamaju,A,TNI/POLRI,541,34,927,54.0,3.7,6634,Ya,Ya,44.6,97.0,11,3.0,63.5,64.2
+RS0254,RS Bhakti Husada 3,Papua,Kota Mekarsari,C,Swasta,98,15,333,73.1,3.8,1207,Ya,Ya,46.4,148.0,22,,96.7,37.9
+RS0255,RS Husada Mulia 4,Papua,Kota Sidomulyo,C,Swasta,93,14,239,55.7,4.1,1624,Ya,Ya,49.9,183.0,45,6.0,,77.1
+RS0256,RS Graha Sehat 5,Papua,Kota Sukajadi,B,Swasta,151,23,562,80.2,5.6,2264,Ya,Tidak,58.6,151.0,35,6.0,106.7,31.3
+RS0257,RSUD Sejahtera 6,Papua,Kab. Bukitraya,B,Pemerintah Daerah,195,20,447,55.4,4.6,2277,Ya,Ya,32.1,74.0,20,6.0,,83.0
+RS0258,RSUD Cahaya Medika 7,Papua,Kab. Girisari,D,Pemerintah Daerah,65,9,158,74.9,4.0,783,Ya,Ya,46.7,123.0,40,2.0,78.2,63.8
+RS0259,RS Bhakti Husada 8,Papua,Kota Karangasem,D,BUMN,70,9,133,91.6,5.6,795,Ya,Ya,36.3,80.0,25,4.0,92.9,70.1
+RS0260,RS Permata Bunda 1,Papua Barat,Kab. Muarabaru,A,Swasta,412,29,903,56.4,4.2,3123,Tidak,Tidak,43.6,96.0,11,4.0,123.3,48.6
+RS0261,RS Husada Mulia 2,Papua Barat,Kota Cempaka,D,TNI/POLRI,88,7,159,69.1,5.4,1121,Ya,Ya,57.9,160.0,30,4.0,108.7,39.7
+RS0262,RS Husada Mulia 3,Papua Barat,Kab. Cempaka,D,Swasta,65,8,186,56.4,4.6,1058,Ya,Ya,12.5,0.0,17,0.0,5.0,84.1
+RS0263,RS Sentosa Medika 4,Papua Barat,Kota Sumberjaya,C,Swasta,80,13,371,87.1,2.1,1249,Ya,Ya,54.2,198.0,46,3.0,140.7,40.9
+RS0264,RSUD Medika Utama 5,Papua Barat,Kota Mekarsari,B,Pemerintah Daerah,217,23,481,58.6,3.4,3428,Ya,Tidak,36.4,43.0,6,5.0,62.1,61.9
+RS0265,RS Harapan Bangsa 6,Papua Barat,Kota Wonorejo,C,Swasta,154,11,234,42.0,5.9,2122,Ya,Ya,37.5,58.0,19,2.0,101.8,63.0
+RS0266,RS Bunda Kasih 7,Papua Barat,Kab. Tanjungsari,A,Swasta,448,35,1437,76.9,5.4,6862,Ya,Tidak,58.2,205.0,39,2.0,,34.0
+RS0267,RSUD Sejahtera 8,Papua Barat,Kab. Karangasem,C,Pemerintah Daerah,177,16,218,59.6,5.0,1842,Ya,Ya,27.9,0.0,4,4.0,79.0,45.4
+RS0268,RS Bhakti Husada 1,Papua Tengah,Kab. Sumberjaya,B,Swasta,168,20,373,69.0,6.1,1874,Ya,Ya,52.0,175.0,28,3.0,103.4,60.4
+RS0269,RS Graha Sehat 2,Papua Tengah,Kab. Muarabaru,B,TNI/POLRI,211,22,707,37.1,4.9,2766,Ya,Ya,42.8,122.0,38,1.0,74.7,57.4
+RS0270,RS Graha Sehat 3,Papua Tengah,Kab. Wonorejo,B,Swasta,311,25,808,59.9,2.5,4686,Ya,Ya,31.9,36.0,25,3.0,89.8,103.6
+RS0271,RS Harapan Bangsa 4,Papua Tengah,Kab. Tanjungsari,D,Swasta,67,11,104,56.2,5.5,761,Ya,Tidak,32.7,119.0,21,3.0,67.1,83.6
+RS0272,RSUD Graha Sehat 5,Papua Tengah,Kota Bukitraya,B,Pemerintah Daerah,188,25,480,63.3,6.4,2736,Ya,Ya,46.9,166.0,20,2.0,111.7,0.0
+RS0273,RS Husada Mulia 6,Papua Tengah,Kota Sukamaju,C,Swasta,123,14,406,66.6,4.2,1804,Tidak,Tidak,28.3,0.0,31,2.0,68.3,58.9
+RS0274,RS Sejahtera 2,Maluku,Kota Girisari,B,Swasta,302,22,606,60.7,3.9,4569,Ya,Ya,70.2,188.0,52,3.0,155.7,78.2
+RS0275,RS Sejahtera 2,Riau,Kota Muarabaru,D,Swasta,66,11,187,43.5,4.3,492,Ya,Ya,54.4,216.0,16,3.0,113.8,52.7
+RS0276,RSUD Husada Mulia 1,Nusa Tenggara Barat,Kab. Sukamaju,A,Pemerintah Daerah,411,33,957,55.4,1.5,6416,Ya,Ya,59.2,173.0,31,7.0,135.7,37.2
