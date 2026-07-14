@@ -100,7 +100,7 @@ Notebook otomatis mendeteksi lokasi dataset (`data/dataset_smart_hospital_indone
 |---|---|
 | [`reports/executive_summary.pdf`](reports/executive_summary.pdf) | Ringkasan eksekutif: Pendahuluan, Identifikasi Masalah, Metode Analisis, Hasil Analisis, Insight Utama, Rekomendasi Solusi, Kesimpulan |
 | [`reports/slide_presentation.pptx`](reports/slide_presentation.pptx) | Slide presentasi 10 slide |
-| [`notebooks/Smart_Hospital_Analysis.ipynb`](notebooks/Smart Hospital Data Analysis_Joyce Stephanie Naibaho.ipynb) | Source code lengkap analisis (Python) |
+| [`notebooks/Smart_Hospital_Analysis.ipynb`](notebooks/Smart_Hospital_Analysis.ipynb) | Source code lengkap analisis (Python) |
 
 ## Penulis
 
